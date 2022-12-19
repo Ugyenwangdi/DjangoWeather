@@ -6,8 +6,8 @@
 *  - pip install virtualenv
 *  - virtualenv envname
 *  - envname\scripts\activate
-* 3 - cd into project "cd DjangoWeather"
-* 4 - pip install -r requirements.txt
+* 3 - pip install django
+* 4 - cd into project "cd DjangoWeather"
 * 5 - cd weather
 * 6 - python manage.py runserver
 
