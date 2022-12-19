@@ -40,7 +40,7 @@ See the full course here: https://dennisivy.teachable.com/p/django-beginners-cou
 * Django REST Framework
 
 # Home Page
-<img src="./resources/images/Devsearch Home.jpg">  
+<img src="weather.png">  
 
 
 # Projects Page
